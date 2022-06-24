@@ -1,0 +1,25 @@
+  373  git clone https://github.com/avangelinac/credit_risk_resampling.git
+  374  git add .
+  375  cd credit_risk_resampling
+  376  git add .
+  377  git commit -m "commit part 1"
+  378  git push origin main
+  379  git add .
+  380  git commit -m "commit part 2"
+  381  git push origin main
+  382  git add .
+  383  git commit -m "commit part 3"
+  384  git push origin main
+  385  git add .
+  386  git commit -m "commit part 4"
+  387  git push origin main
+  388  git add .
+  389  git commit -m "commit README file"
+  390  git push origin main
+  391  git add .
+  392  git commit -m "commit images folder"
+  393  git push origin main
+  394  history 15 > terminal_history.txt
+  395  history 20 > terminal_history.txt
+  396  history 22 > terminal_history.txt
+  397  history 25 > terminal_history.txt
